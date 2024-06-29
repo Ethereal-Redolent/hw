@@ -1,0 +1,12 @@
+
+torch
+torchvision
+torchaudio
+tensorboard
+numpy
+opencv-python
+matplotlib
+imageio
+imageio[ffmpeg]
+scipy
+configargparse
